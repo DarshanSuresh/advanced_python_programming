@@ -1,6 +1,6 @@
 # Advanced Python Programming
 
-![Python](https://img.shields.io/badge/Python-3.x-blue?logo=python)
+![Python](https://img.shields.io/badge/Python-3.14.6-blue?logo=python)
 ![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-orange?logo=jupyter)
 ![GitHub](https://img.shields.io/badge/GitHub-Version%20Controlled-black?logo=github)
 ![Course](https://img.shields.io/badge/Course-25CSA632-purple)
@@ -17,7 +17,7 @@ A structured collection of laboratory programs, experiments, problem-solving exe
 | **Course** | Advanced Programming using Python |
 | **Course Code** | 25CSA632 |
 | **Program** | MCA |
-| **Semester** | II |
+| **Semester** | III |
 | **Language** | Python |
 | **Primary Platform** | Jupyter Notebook / Google Colab |
 | **Repository Type** | Academic Laboratory |
