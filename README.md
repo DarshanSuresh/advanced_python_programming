@@ -1,7 +1,7 @@
 # Advanced Python Programming
 
 ![Python](https://img.shields.io/badge/Python-3.14.6-blue?logo=python)
-![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-orange?logo=jupyter)
+![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-orange?logo=jupyter) 
 ![GitHub](https://img.shields.io/badge/GitHub-Version%20Controlled-black?logo=github)
 ![Course](https://img.shields.io/badge/Course-25CSA632-purple)
 ![Program](https://img.shields.io/badge/Program-MCA%20Cybersecurity-red)
